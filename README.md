@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 
 ## :pencil2: My Works: :trophy:       
 - [Letskhabar](https://letskhabar.com)
-- [Vimal](https://vimal.letskhabar.com)
-- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
-- [Covid-19](https://covid-19.letskhabar.com/)
-- [Letskhabar Dev](https://dev.letskhabar.com)
-- [Bob](https://github.com/vimalverma558/Bob)
-- ### :robot: Open Source Packages :octocat:
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
   - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
 
  ## :trophy: Languages and Tools: :robot:
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
+- [Vimal](https://vimal.letskhabar.com)
+- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
+- [Covid-19](https://covid-19.letskhabar.com/)
+- [Letskhabar Dev](https://dev.letskhabar.com)
+- [Bob](https://github.com/vimalverma558/Bob)
+- ### :robot: Open Source Packages :octocat:
 
 
 ## :mailbox: Get in touch: 💬
